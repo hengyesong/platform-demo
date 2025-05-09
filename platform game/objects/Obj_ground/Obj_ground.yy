@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"Spr_ground",
-    "path":"sprites/Spr_ground/Spr_ground.yy",
+    "name":"Spr_Stonewall_Texture",
+    "path":"sprites/Spr_Stonewall_Texture/Spr_Stonewall_Texture.yy",
   },
   "spriteMaskId":null,
   "visible":true,

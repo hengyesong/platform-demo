@@ -17,7 +17,7 @@ is_climbing = place_meeting(x, y, Obj_ladder);
 //set sprite
 
 if (is_climbing) {
-	sprite_index = spr_climb;
+	sprite_index = Spr_climb;
 	image_speed = 1;
 }
 else if (is_grounded) {
